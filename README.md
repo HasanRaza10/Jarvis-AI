@@ -12,6 +12,7 @@ and the best part of this project is it runs completely locally that is private 
 
 ## Requirements
 Install the required Python libraries using the following command:
+Make sure you have already installed ollama and 'llama3' model locally, Although you can use any other models if you have.
 
 ```bash
 pip install -r requirements.txt
