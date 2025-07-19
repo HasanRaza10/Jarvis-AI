@@ -1,6 +1,7 @@
 # Jarvis Project
 
 Jarvis is a voice-activated personal assistant built using Python. It can perform various tasks such as opening websites, playing music, fetching news, and more.
+and the best part of this project is it runs completely locally that is private, safe and requires no API keys 
 
 ## Features
 - Voice recognition using `speech_recognition`.
